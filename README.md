@@ -1,6 +1,6 @@
 # 👋 About Me  
 
-Hi, I'm **Fuad Jemal**, a passionate **Full-Stack Developer** with a strong focus on backend systems and scalable solutions. I love building impactful web applications that solve real-world problems. With expertise in **React, Node.js, Django, Prisma, MySQL, MongoDB**, and more, I aim to deliver clean, efficient, and high-quality code.  
+Hi, I'm **Fuad Jemal**, a passionate **Full-Stack Developer** with a strong focus on backend systems and scalable solutions. I love building impactful web applications that solve real-world problems. With expertise in React, Node.js, Django, Prisma, MySQL, MongoDB**, and more, I aim to deliver clean, efficient, and high-quality code.  
   
 
  🔥 Core Skills  
