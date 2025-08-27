@@ -41,7 +41,7 @@ Hi, I'm **Fuad Jemal**, a passionate **Full-Stack Developer** with a strong focu
 
 🏆 GitHub Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fuadjemal&theme=onedark)  
+![trophy](https://github-profile-trophy.vercel.app/?username=FuadJemal86&theme=onedark)  
 
 
 ✉️ Ready to Start a Project?  
