@@ -19,11 +19,12 @@ Hi, I'm **Fuad Jemal**, a passionate **Full-Stack Developer** with a strong focu
 ✅ Quality Code: Maintainable, scalable, and aligned with industry standards.  
 
 
-📫 Let's Connect  
+## 📫 Let's Connect  
 
-- 🌐 [Portfolio Website](https://officaltechreach.vercel.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fuad-jemal-757601302/)  
-- 📧 Email: fuad.jemal.mail@gmail.com  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-%2300C7B7.svg?&style=for-the-badge)](https://officaltechreach.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fuad-jemal-757601302/)  
+[![Email](https://img.shields.io/badge/Email-fuad.jemal.mail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuad.jemal.mail@gmail.com)  
+
 
 
 💻 Tech Stack  
